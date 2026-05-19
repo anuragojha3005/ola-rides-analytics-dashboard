@@ -166,5 +166,5 @@ This project demonstrates practical Power BI and business intelligence skills by
 
 Anurag Ojha
 
--LinkedIn: linkedin.com/in/anurag3005
--GitHub: github.com/anuragojha3005
+- LinkedIn: linkedin.com/in/anurag3005
+- GitHub: github.com/anuragojha3005
